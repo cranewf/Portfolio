@@ -441,3 +441,26 @@
 
 </details>
 
+## Сертификаты 
+
+<details>
+<summary>Ручное тестирование веб-приложений</summary>
+
+***
+
+![](/img/one.png)
+
+***
+
+</details>
+
+<details>
+<summary>Git — система контроля версий</summary>
+
+***
+
+![](/img/two.png)
+
+***
+
+</details>
